@@ -1,5 +1,5 @@
 # HWCC
-Handwritten Chinese Character Input Method based on Deep Learning / 基于深度学习的手写汉字输入法
+Handwritten Chinese Character Recognition based on Caffe / 手写汉字识别
 #Development Environment
 * ubuntu
 * caffe
